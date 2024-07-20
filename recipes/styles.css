@@ -1,0 +1,12 @@
+ol li {
+    color:red;
+    text-align: center;
+}
+
+ul li {
+    font-weight: 900;
+    color: green;
+    font-style: oblique;
+}
+
+    
